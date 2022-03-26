@@ -1,6 +1,6 @@
 # prak5
 
-Praktikum 5 - Flutter HTTP
+Praktikum 5 - Client Server
 
 ## Getting Started
 
